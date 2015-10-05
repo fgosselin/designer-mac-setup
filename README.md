@@ -14,7 +14,9 @@ Homebrew is a popular package manager built for OS X.
 
 Open your terminal and execute the following command:
 
-`ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
+```bash
+ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+```
 
 #### **Install Homebrew Cask**
 
@@ -22,4 +24,6 @@ Homebrew Cask is an extension for Homebrew that allows you to automate the insta
 
 To install it, execute that command:
 
-`brew install caskroom/cask/brew-cask`
+```bash
+brew install caskroom/cask/brew-cask
+```
