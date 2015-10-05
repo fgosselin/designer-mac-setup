@@ -27,3 +27,30 @@ To install it, execute that command:
 ```bash
 brew install caskroom/cask/brew-cask
 ```
+
+#### **Install applications**
+
+We have a bash script called [`apps.sh`](https://github.com/fgosselin/designer-mac-setup/blob/master/scripts/apps.sh) that will install the applications listed below on your mac.
+
+To proceed to the installation, execute that command in your CLI:
+```bash
+curl -sS https://raw.githubusercontent.com/fgosselin/designer-mac-setup/master/scripts/apps.sh | bash
+```
+**Applications list**
+- alfred
+- atom
+- colorsnapper
+- dropbox
+- evernote
+- flowdock
+- firefox
+- google-chrome
+- iterm2
+- noun-project
+- sketch
+- skype
+- slack
+- spotify
+- sublime-text3
+
+And voilà! You're done.
