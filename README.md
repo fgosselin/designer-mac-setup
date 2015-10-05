@@ -44,13 +44,14 @@ curl -sS https://raw.githubusercontent.com/fgosselin/designer-mac-setup/master/s
 - evernote
 - flowdock
 - firefox
-- google-chrome
+- google chrome
 - iterm2
-- noun-project
+- the noun project
 - sketch
+- sketch toolbox
 - skype
 - slack
 - spotify
-- sublime-text3
+- sublime text 3
 
 And voilà! You're done.
