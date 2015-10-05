@@ -11,6 +11,7 @@ apps=(
   iterm2
   noun-project
   sketch
+  sketch-toolbox
   skype
   slack
   spotify
