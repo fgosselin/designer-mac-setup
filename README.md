@@ -1,7 +1,7 @@
 # Designer Mac Setup
 
-The purpose of this repo is to ease the mac setup process for new designers at iAdvize.
-We thought it could help designers in other companies, so we made it public.
+The purpose of this repo is to ease the mac setup process for new designers in a company.
+I thought it could help other design teams, so I made it public.
 
 ## Getting started
 All you have to do is to follow these simple steps. 
