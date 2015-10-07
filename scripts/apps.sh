@@ -1,4 +1,4 @@
-# Apps
+# Apps list
 apps=(
   alfred
   atom
@@ -15,10 +15,9 @@ apps=(
   skype
   slack
   spotify
-  sublime-text3
+  sublime-text
 )
 
 # Install apps to /Applications
-# Default is: /Users/$user/Applications
 echo "Installing apps..."
 brew cask install --appdir="/Applications" ${apps[@]}
