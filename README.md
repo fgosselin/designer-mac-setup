@@ -47,6 +47,7 @@ curl -sS https://raw.githubusercontent.com/fgosselin/designer-mac-setup/master/s
 - firefox
 - google chrome
 - iterm2
+- paparazzi
 - the noun project
 - sketch
 - sketch toolbox

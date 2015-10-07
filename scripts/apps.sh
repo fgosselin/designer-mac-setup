@@ -10,6 +10,7 @@ apps=(
   google-chrome
   iterm2
   noun-project
+  paparazzi
   sketch
   sketch-toolbox
   skype
