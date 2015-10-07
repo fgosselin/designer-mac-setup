@@ -1,6 +1,7 @@
 # Designer Mac Setup
 
 The purpose of this repo is to ease the mac setup process for new designers in a company.
+
 I thought it could help other design teams, so I made it public.
 
 ## Getting started
@@ -52,6 +53,6 @@ curl -sS https://raw.githubusercontent.com/fgosselin/designer-mac-setup/master/s
 - skype
 - slack
 - spotify
-- sublime text 3
+- sublime text
 
 And voilà! You're done.
