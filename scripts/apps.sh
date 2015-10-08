@@ -2,12 +2,15 @@
 apps=(
   alfred
   atom
+  cloud
   colorsnapper
   dropbox
   evernote
-  flowdock
   firefox
+  flowdock
+  flux
   google-chrome
+  imageoptim
   iterm2
   noun-project
   paparazzi

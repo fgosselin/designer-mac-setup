@@ -40,12 +40,15 @@ curl -sS https://raw.githubusercontent.com/fgosselin/designer-mac-setup/master/s
 **Applications list**
 - alfred
 - atom
+- cloud
 - colorsnapper
 - dropbox
 - evernote
-- flowdock
 - firefox
+- flowdock
+- flux
 - google chrome
+- imageoptim
 - iterm2
 - paparazzi
 - the noun project
