@@ -41,7 +41,6 @@ curl -sS https://raw.githubusercontent.com/fgosselin/designer-mac-setup/master/s
 - alfred
 - atom
 - cloud
-- colorsnapper
 - dropbox
 - evernote
 - firefox

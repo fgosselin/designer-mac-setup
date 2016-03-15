@@ -3,7 +3,6 @@ apps=(
   alfred
   atom
   cloud
-  colorsnapper
   dropbox
   evernote
   firefox
